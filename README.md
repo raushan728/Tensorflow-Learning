@@ -71,7 +71,7 @@ pip install tensorflow
 pip install notebook
 ```
 
-**OR use Anaconda for all-in-one install:**
+**OR** use Anaconda for all-in-one install:
 ```bash
 conda install tensorflow notebook
 ```
