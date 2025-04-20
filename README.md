@@ -75,6 +75,8 @@ pip install notebook
 ```bash
 conda install tensorflow notebook
 ```
+
+---
 📌 Note: This repository is part of my AI/ML learning journey — starting from Python, NumPy, Pandas, and gradually diving into deep learning using TensorFlow.
 
 
