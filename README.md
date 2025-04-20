@@ -64,7 +64,8 @@ Download from: https://www.python.org/downloads/
 **Step 2:** Install TensorFlow  
 ```bash
 pip install tensorflow
+```
 
 **Step 3:** (Optional) Install Jupyter Notebook
-```
+```bash
 pip install notebook
